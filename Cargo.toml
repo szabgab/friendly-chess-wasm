@@ -3,6 +3,7 @@ name = "friendly-chess-wasm"
 version = "0.1.0"
 authors = ["Hieu <hieunguyen.0527@gmail.com>"]
 edition = "2018"
+repository = "https://github.com/hieunguyent12/friendly-chess-wasm"
 
 [lib]
 crate-type = ["cdylib", "rlib"]
